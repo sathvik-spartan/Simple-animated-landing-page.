@@ -18,11 +18,11 @@ This is a responsive landing page built using HTML, CSS, and JavaScript. The pag
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sathvik-spartan/
+   git clone https://github.com/sathvik-spartan/Simple-animated-landing-page.
    ```
 2. Navigate to the project directory:
    ```bash
-   cd landing-page
+   cd Simplle-animated-landing-page
    ```
 3. Open the `index.html` file in your browser.
 
